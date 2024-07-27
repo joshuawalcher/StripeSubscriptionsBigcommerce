@@ -14,7 +14,7 @@ George FitzGibbons, Joshua Walcher
 
 To get started you will need to have a BigCommerce Store.
 
-You will need to have nodeJS of version 10 or greater in the location where you want to install this application. I recommend installing NVM and using version 20.15.1 of Node.
+You will need to have nodeJS of version 10 or greater in the location where you want to install this application. I recommend installing NVM and using version 20.15.1 of Node since the latest versions of Lambda use node 20.
 
 To install NVM:
 ```bash
