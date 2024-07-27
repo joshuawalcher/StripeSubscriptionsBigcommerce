@@ -33,7 +33,7 @@ npm i serverless -g
 ```
 
 In this example the serverless.yml is configured for AWS:
-[https://serverless.com/](https://serverless.com/framework/docs/providers/aws/guide/installation/)
+[https://serverless.com/](https://serverless.com/framework/docs/providers/aws/guide/installation/) with more information [here](https://www.serverless.com/framework/docs/getting-started).
 
 You can easily update the yml for your desired FAAS providers.
 
