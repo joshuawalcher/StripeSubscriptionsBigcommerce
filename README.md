@@ -61,6 +61,8 @@ environment:
   STRIPE_SECRET: {STRIPE SECRET KEY}
 ```
 
+Next, you need to update the handler.js file in the code to handle your subscription products and prices. These come from Stripe after you add them into the Stripe Dashboard and then are connected to the BigCommerce store by the productID matching the SKU of the product in your BigCommerce store. Search for the word "note" to see where you need to edit the file.
+
 Now you're ready to deploy. To do that, run this command:
 
 ```bash
